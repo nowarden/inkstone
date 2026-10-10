@@ -2,7 +2,7 @@
   <img src="./public/inkstone-logo.svg" width="112" height="112" alt="Inkstone project logo" />
 </p>
 
-<h1 align="center">Inkstone</h1>
+<h1 align="center">Inkstone.</h1>
 
 <p align="center">
   A self-hosted Markdown notebook for writing, organizing, syncing, and backing up personal knowledge.
